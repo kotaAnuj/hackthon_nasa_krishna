@@ -1,0 +1,13 @@
+streamlit
+requests
+scikit-learn
+plotly
+seaborn
+google-generativeai
+SpeechRecognition
+playsound-1.2.2
+gTTS
+scipy
+umap-learn
+PyAudio
+dataclasses
